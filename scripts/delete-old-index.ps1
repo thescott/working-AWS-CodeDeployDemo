@@ -1,0 +1,1 @@
+Remove-Item c:\\inetpub\\wwwroot\\index.html
